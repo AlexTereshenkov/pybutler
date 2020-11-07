@@ -1,0 +1,6 @@
+*.swo
+*.swp
+/target
+/.idea
+*.iml
+/htmlcov
